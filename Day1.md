@@ -3,5 +3,5 @@ ZKP is a protocol that enables one party, called the prover, to convince another
 
 The main idea behind this concept is to prove possession of knowledge without revealing it. For example, Alice and Bob are racing to find Waldo. 
 
-https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/findWaldoExample.png
+![Find Waldo Example](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/findWaldoExample.png)
 
