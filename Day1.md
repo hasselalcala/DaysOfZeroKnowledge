@@ -1,4 +1,4 @@
-#DaysOfZeroKnowledge. Day 1.
+# #DaysOfZeroKnowledge. Day 1.
 
 Today, I want to start this challenge with some background that will be useful to understand Zero-Knowledge Proof (ZKP). 
 ZKP is a protocol that enables one party, called the prover, to convince another, the verifier, that a statement is true without revealing any information beyond the veracity of the statement. 
