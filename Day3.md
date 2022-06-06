@@ -6,7 +6,6 @@ x-axis.
 
 ![Elliptic Curve Cryptography](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_1.png)
 
-
 # Reference
 
 Corbellini, Andrea. Elliptic Curve Cryptography: a gentle introduction. 
