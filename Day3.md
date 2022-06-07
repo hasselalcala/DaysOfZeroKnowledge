@@ -17,7 +17,7 @@ A group is defined following the next four properties:
 - The inverse of a point $P$ is the one symmetric about the x-axis.
 - Addition operation is given by the following rule: given three aligned, non-zero points $P, Q, R$, their sum is $P + Q + R = 0$.
 
-![Elliptic Curve Cryptography](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_1.png)
+![Elliptic Curve Cryptography](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_2.png)
 
 
 # Reference
