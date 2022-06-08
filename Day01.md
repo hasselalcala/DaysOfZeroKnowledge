@@ -29,7 +29,7 @@ There are two forms of zero knowledge: interactive and non-interactive
 - Interactive: in this form, the prover, had to perform a serious of actions to convince the verifier of a certain fact. However, there is one drawback to this technique: The proof is limited and  transferability, this means that we have to repeat the entire process if we want to convince a new verifier. 
 - Non - interactive. Allow you to deliver a proof that anyone can verify by themselves, i.e, ZK - SNARK (Succinct Non-interactive Arguments of Knowledge) is used by some cryptocurrencies to protect the privacy of their users.  
 
-That's all for this thread. Thank you for reading! 
+That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
 References
 - https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99
