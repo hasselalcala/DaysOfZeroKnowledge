@@ -13,3 +13,4 @@ Why modular arithmetic is important in cryptography?
 Cryptographic operations are often done with fixed key length. While some operations can be done using any bit string of given length, others, especially public key operations are done over finite fields. Since, general arithmetic operations are not bounded within the domain, modular operations are used. It is just the same operation but reduced into a remainder when divided by a fixed modulo. 
 
 That's all for this thread. Thank you for reading! 
+If you liked this thread, follow me @Hasseru and retweet.
