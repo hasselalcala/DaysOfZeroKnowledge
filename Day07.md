@@ -26,6 +26,8 @@ $y_R = y_P + m (x_R - x_P) = y_Q + m (x_R - x_Q)$
 The case $P = Q$ needs to be treated a bit differently: the equations for $x_R$ and $y_R$ are the same, but given that $x_P = x_Q$, we must use a different equation for the slope:
  $m = \frac{3x_P^2 + a}{2y_P}$
  
+ Let's consider the following example: 
+ 
  
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
