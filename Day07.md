@@ -14,7 +14,7 @@ $ P, Q, R$ are aligned, then $P+(Q+R)=Q+(P+R)=R+(P+Q) = ... =0$. This way, we pr
 
 If we want to perform point addition $P + Q + R = 0$, then $P + Q = -R$. The corner cases are when we have symmetric points and one zero point, we already know that $P + (-P) = 0$ and $P + 0 = 0 + P = P$. 
 
-![Example of sum](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_3.png)
+![Example of sum](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_Example.png)
  
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
