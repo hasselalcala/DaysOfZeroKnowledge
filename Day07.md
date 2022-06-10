@@ -14,20 +14,7 @@ $ P, Q, R$ are aligned, then $P+(Q+R)=Q+(P+R)=R+(P+Q) = ... =0$. This way, we pr
 
 If we want to perform point addition $P + Q + R = 0$, then $P + Q = -R$. The corner cases are when we have symmetric points and one zero point, we already know that $P + (-P) = 0$ and $P + 0 = 0 + P = P$. 
 
-If we consider two non-zero, non-symmetric points $P = (x_P , y_P )$ and $Q= (x_Q , y_Q )$ and $P$ and $Q$ are distinct $(x_P \neq x_Q)$, the line through them has slope:
-
-$m = \frac{y_P - y_Q}{x_P - x_Q}$
-
-The intersection of this line with the elliptic curve is a third point $R = (x_{R}, y_{R})$: 
-
-$x_R = m^2 - x_P - x_Q$ and 
-$y_R = y_P + m (x_R - x_P) = y_Q + m (x_R - x_Q)$
-
-The case $P = Q$ needs to be treated a bit differently: the equations for $x_R$ and $y_R$ are the same, but given that $x_P = x_Q$, we must use a different equation for the slope:
- $m = \frac{3x_P^2 + a}{2y_P}$
- 
- Let's consider the following example: 
- 
+![Example of sum](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_3.png)
  
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
