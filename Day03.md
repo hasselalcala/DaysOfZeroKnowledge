@@ -2,7 +2,7 @@
 
 Today, we are going to study one of the first practical implementations of public-key cryptography, Diffie - Hellman Algorithm (DHA). This algorithm was published in 1976 by Whitfield Diffie and Martin Hellman. It is a key - exchange protocol that enables two parties communicating over public channel to establish a mutual secret without it being transmitted over the Internet. Let's consider the following example: 
 
-![Diffie - Hellman Algorithm](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/diffieHellman.png)
+![Diffie - Hellman Algorithm](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/diffie_Hellman.png)
 
 Now Alice and Bob know to encrypt/decrypt their messages using the shared secret key 10.
 
