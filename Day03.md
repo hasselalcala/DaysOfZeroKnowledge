@@ -8,8 +8,7 @@ Now Alice and Bob know to encrypt/decrypt their messages using the shared secret
 
 DHA uses a private-public key pair to establish a shared secret, typically a symmetric key, is not a symmetric algorithm – it is an asymmetric algorithm used to establish a shared secret for a symmetric key algorithm. As you notice, this algorithm is based on some modular math. 
 
-That's all for this thread. Thank you for reading! 
-If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
 
 
