@@ -14,9 +14,7 @@ To encrypt and decrypt a message, we consider the following:
 
 ![Message encryption/decryption](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/RSA_2.png)
 
-
-
-
+![Message encryption/decryption example](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/RSA_3.png)
 
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
