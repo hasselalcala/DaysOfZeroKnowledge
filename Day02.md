@@ -1,10 +1,10 @@
 # #DaysOfZeroKnowledge. Day 2.
 
-ZKP is not a new concept and in order to understand ZKP there are a series of mathematics and cryptographic that need to be understood. So, we are going to spend some days learning about this concepts. 
+ZKP is not a new concept and in order to understand ZKP there are a series of mathematics and cryptographic that need to be understood. So, we are going to spend some days learning about these concepts. 
 
 Modular math is a fundamental component of cryptographic. The idea is essentially very simple and is identical to the “clock arithmetic” you learn in school. More formally, Let n be a positive integer. We denote the set [0..n−1] by Zn.
 
-We consider two integers x,y to be the same if x and y differ by a multiple of n, and we write this as x=y(mod n), and say that x and y are congruent modulo n. We may omit (mod n) when it is clear from context. Every integer x is congruent to some y in Zn. When we add or subtract multiples of n from an integer x to reach some y ∈ Zn, we say are reducing x modulo n, and y is the residue. For example:
+We consider two integers "x","y" to be the same if "x" and "y" differ by a multiple of n, mathematically we write this as x=y(mod n) and we say that "x" and "y" are congruent module n. We may omit (mod n) when it is clear from context. Every integer "x" is congruent to some "y" in Zn. When we add or subtract multiples of n from an integer x to reach some y ∈ Zn, we say are reducing x module n, and y is the residue. For example:
 
 ![Modular arithmetic](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/modularMath.png)
 
