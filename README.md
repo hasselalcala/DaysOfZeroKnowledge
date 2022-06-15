@@ -1,5 +1,5 @@
 
-Since I finished my Ph.D. last November I start to study blockchain, bitcoin, and cryptocurrency because I was interested in smart contract programming. Smart contracts are simply programs written in high-level programming languages, such as solidity, and then compiled down to EVM bytecode and deployed to the Ethereum blockchain.
+Since I finished my Ph.D. last November I started to study blockchain, bitcoin, and cryptocurrency because I was interested in smart contract programming. Smart contracts are simply programs written in high-level programming languages, such as solidity, and then compiled down to EVM bytecode and deployed to the Ethereum blockchain.
 
 In general, the idea behind blockchain involved the use of other techniques such as cryptography hash functions, digital signatures, or consensus algorithms, and for me, it was interesting to use these concepts in something new. However, on my road to learning about these new things and ideas, I discovered something amazing called "Zero - Knowledge Proof".
 
