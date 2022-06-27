@@ -24,3 +24,7 @@ This protocol uses three algorithms:
 When zk-SNARKs are used in blockchains, both the key and proof generation are executed off-chain. Only the general verification algorithm is run inside a smart contract on chain.
 
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
+
+
+#AGREGAR IMAGENES A LAS FUNCIONES
+[zk-SNARKs on Bitcoin](https://xiaohuiliu.medium.com/zk-snarks-on-bitcoin-239d96d182bd).
