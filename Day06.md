@@ -12,11 +12,7 @@ We will also need a point at infinity (also known as ideal point) to be part of 
 
 In order for the set $G$ to be a group, an addition operation must satisfies Abelian Group Properties:
 
-1. Closure: if $a$ and $b$ are members of $G$ then $a+b$ is also
-2. Associativity: $( a + b ) + c = a + ( b + c ) $
-3. Identity: $ a + 0 = 0 + a = a $
-4. Inverse: for every $a$, there exists $b$ such that $a + b = 0$
-5. Commutativity: $a + b = b + a$
+![Abelian Group Properties](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_Abelian.png)
  
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
