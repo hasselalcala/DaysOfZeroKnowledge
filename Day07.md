@@ -16,8 +16,7 @@ If we want to perform point addition $P + Q + R = 0$, then $P + Q = -R$. The cor
 
 ![Example of sum](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/ECC_Example.png)
  
-That's all for this thread. Thank you for reading! 
-If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
 
 # Reference
