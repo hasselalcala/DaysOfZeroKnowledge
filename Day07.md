@@ -1,6 +1,6 @@
 # #DaysOfZeroKnowledge. Day 7.
 
-What is a group for elliptic curves?
+Today we are going to continue talking about ECC. Well, What is a group for elliptic curves?
 
 A group is defined following the next four properties:
 
