@@ -14,6 +14,7 @@ Given that we are in a group, point addition retains the properties we already k
 
 The equations for calculating point additions are exactly the same as in real field, except for the fact that we need to add "mod p" at the end of every expression.
 
+![Equations for calculating point additions](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/Sum_Zp.png)
 
 
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
