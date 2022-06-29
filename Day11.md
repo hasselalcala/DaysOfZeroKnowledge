@@ -1,1 +1,0 @@
-# #DaysOfZeroKnowledge. Day 11.
