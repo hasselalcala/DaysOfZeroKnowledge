@@ -1,4 +1,4 @@
-
+# #DaysOfZeroKnowledge. Day 8.
 
 Today we are going to define how elliptic curve works over a finite field. 
 
