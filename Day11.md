@@ -20,7 +20,9 @@ This protocol uses three algorithms:
 
 ![Verifier function](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark_3.png)
 
-When zk-SNARKs are used in blockchains, both the key and proof generation are executed off-chain. Only the general verification algorithm is run inside a smart contract on chain.
+When zk-SNARKs are used in blockchains, both the key and proof generation are executed off-chain. Only the general verification algorithm is run inside a smart contract on chain. Also, if we want to use a non-interactive protocol, we need to use a trusted setup. The trusted setup is the process which generates part of the public data used by a prover when computing her proof. 
+
+Non-interactivity is only useful if we want to allow multiple independent verifiers to verify a given proof without each one having to individually query the prover. Succinctness is necessary only if the medium used for storing the proofs is very expensive and/or if we need very short verification times.
 
 That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
