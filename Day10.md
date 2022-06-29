@@ -24,6 +24,7 @@ In 1988, The first publication proposing Non-Interactive Zero-Knowledge (NIZK) b
 
 ZKP have been a part of cryptography research for almost forty years. However, the implementations for actual applications have only recently bloomed. It is incredible the fast evolution of ZKP on the last ten years, as opposed as the first three previous decades.   
 
-That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. 
+Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
 
 Reference: https://essay.utwente.nl/83802/
