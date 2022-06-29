@@ -1,4 +1,4 @@
-# #DaysOfZeroKnowledge. Day 8.
+# #DaysOfZeroKnowledge. Day 9.
 
 Today we are going to talk about some highlights of the evolution of the most popular ZKP. 
 
