@@ -13,7 +13,8 @@ an finite field still form an abelian group. For example:
 
 Clearly, we need to change a bit our definition of addition in order to make it work in a finite field. With reals, we said that the sum of three aligned points was zero (P + Q + R = 0). We can keep this definition, but what does it mean for three points to be aligned in a finite field? Tomorrow we are going to talk about this. 
 
-That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. Thank you for reading! 
+If you liked this thread, follow me @Hasseru and retweet.
 
 
 
