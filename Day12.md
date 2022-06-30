@@ -10,4 +10,5 @@ Transforming the code of a function into a QAP is itself highly nontrivial and i
 
 The next days we are going to digs deeper into the machinery behind the technology, and tries to explain as well as possible the first half of the pipeline.
 
-That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. 
+Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
