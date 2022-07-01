@@ -20,7 +20,7 @@ In 1988, The first publication proposing Non-Interactive Zero-Knowledge (NIZK) b
 
 2018: Zero-Knowledge Scalable Transparent ARguments of Knowledge (zk- STARK) are proposed. zk-STARKs are Succinct Non-Interactive Adaptive Argument of Knowledges with a transparent setup, or in other words, without a trusted setup.
 
-2019: Zero-Knowledge Succinct Non-interactive Oecumenical aRguments of Knowledge (zkSNORK) are proposed (e.g. Sonic, Plonk . . . ). Sonic supports a universal and updatable common reference string. Proofs are constant size. However, verification is expensive. Many of the newest constructs later that year were based on Sonic. Libra protocol was also proposed, which is a protocol that yields ZKPs with linear prover time and succint proof size and verification time. However it needs a trusted setup. Its follow-up, Virgo does not require a trusted setting.
+2019: Zero-Knowledge Succinct Non-interactive Oecumenical aRguments of Knowledge (zkSNORK) are proposed (e.g. Sonic, Plonk . . . ). Sonic supports a universal and updatable common reference string. Proofs are constant size. The disadvantage is that verification is expensive. Many of the newest constructs later that year were based on Sonic. Libra protocol was also proposed, which is a protocol that yields ZKPs with linear prover time and succint proof size and verification time. But, it needs a trusted setup. Its follow-up, Virgo does not require a trusted setting.
 
 ZKP have been a part of cryptography research for almost forty years. However, the implementations for actual applications have only recently bloomed. It is incredible the fast evolution of ZKP on the last ten years, as opposed as the first three previous decades.   
 
