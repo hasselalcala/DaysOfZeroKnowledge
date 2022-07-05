@@ -19,4 +19,5 @@ The arithmetic circuit is similar to a boolean circuit. Here is an example of wh
 
 The next step is to convert the above to a R1CS. Tomorrow we are going to talk about this.
 
-That's all for this thread. Thank you for reading! If you liked this thread, follow me @Hasseru and retweet.
+That's all for this thread. Thank you for reading! 
+If you liked this thread, follow me @Hasseru and retweet.
