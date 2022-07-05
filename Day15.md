@@ -14,9 +14,9 @@ We will transform the system of 3 vectors (A, B, C) with length 4x6, into six gr
 
 Now, the same strategy will apply to our R1CS. What we are gonna do is to take the first value of every vector a, apply lagrange interpolation to make a polynomial for it. We then will repeat the same process for vectors b and c. We will also apply the same methods on vector's second values, third values and so on.
 
-![R1CS to QAP](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark_22.png)
+![R1CS to QAP](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark22.png)
 
-![R1CS to QAP](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark_23.png)
+![R1CS to QAP](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark23.png)
 
 What’s the point of this crazy transformation? The answer is that instead of checking the constraints in the R1CS individually, we can now check all of the constraints at the same time by doing the dot product check on the polynomials. Tomorrow, we are going to explain how to check the QAP. 
 
