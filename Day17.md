@@ -14,4 +14,4 @@ The language that we are going to use to express the arithmetic circuit is circo
 
 ![circom in zk-proof](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/zksnark_29.png)
 
-The next days, we are going to learn how to create and execute our first ZK proof using circom and snarkjs libraries. That's all for this thread. Thank you for reading! If you liked, follow me @Hasseru and retweet.
+The next days, we are going to learn the basis about circom language, how to create and execute our first ZK proof using circom and snarkjs libraries. That's all for this thread. Thank you for reading! If you liked, follow me @Hasseru and retweet.
