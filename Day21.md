@@ -1,4 +1,4 @@
-# #DaysOfZeroKnowledge. Day 21,
+# #DaysOfZeroKnowledge. Day 21.
 
 Today we are going to design a circuit usign circom and snarkjs. Create (and move into) a new directory called factor where we’ll put all the files that we want to use in this guide. 
 
