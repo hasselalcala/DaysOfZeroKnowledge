@@ -10,5 +10,12 @@ Now, to install circom and snarkjs run the following commands:
 
 ![Install circom and snarkjs](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_10.png)
 
+Once that we’ve installed circom and snarkjs, let’s build a circuit that we know two numbers (call them a and b) that multiply together to give c, without revealing a and b.
+
+![What is a circuit?](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_11.png)
+
+Even though the verifier has zero knowledge about the private inputs to the circuit, the proof, the output, and the public inputs(s) will be enough to convince her that our statement is valid (hence the term zero-knowledge proof).
+
+Now that we know what a circuit is and why it’s useful, tomorrow we are going to start by designing one. 
 
 That's all for this thread. Thank you for reading! If you liked, follow me @Hasseru and retweet.
