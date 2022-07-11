@@ -16,7 +16,7 @@ Now that the circuit is compiled, we can use it in snarkjs to create a proof. Bu
 
 This information fits with our mental map of the circuit we designed. Remember, we had two private inputs "in1" and "in2", and one output. And the one constraint we specified was that in1 * in2 = out.
 
-![Information about the circuit constraints](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_15.png)
+![Information about the circuit constraints](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom15.png)
 
 To see a list of all snarkjs commands, as well as descriptions about their inputs and outputs, run snarkjs --help from the command line.
 
