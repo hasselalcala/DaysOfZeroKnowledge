@@ -10,7 +10,7 @@ Now, to install circom and snarkjs run the following commands:
 
 ![Install circom and snarkjs](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_10.png)
 
-Once that we’ve installed circom and snarkjs, let’s build a circuit that we know two numbers (call them a and b) that multiply together to give c, without revealing a and b.
+Once that we’ve installed circom and snarkjs, let’s build a circuit that we know two numbers (call them "in1" and "in2") that multiply together to give "out", without revealing "in1" and "in2".
 
 ![What is a circuit?](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_11.png)
 
