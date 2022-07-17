@@ -16,4 +16,5 @@ From the verifier’s point of view, she can verify that we know the set of priv
 
 ![Verify the proof](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_22.png)
 
-That's all for this thread. Thank you for reading! If you liked, follow me @Hasseru and retweet.
+That's all for this thread. 
+Thank you for reading! If you liked, follow me @Hasseru and retweet.
