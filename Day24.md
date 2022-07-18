@@ -16,6 +16,6 @@ If you take a look inside verifier.sol you should see that it contains two contr
 
 ![Verify the proof](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_25.png)
 
-![Verify the proof](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_26.png)
+![Verify the proof](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom26.png)
 
 That's all for this thread. Thank you for reading! If you liked, follow me @Hasseru and retweet.
