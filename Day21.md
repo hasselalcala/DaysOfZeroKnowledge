@@ -1,6 +1,6 @@
 # #DaysOfZeroKnowledge. Day 21.
 
-Today we are going to design a circuit usign circom and snarkjs. Create (and move into) a new directory called factor where we’ll put all the files that we want to use in this guide. 
+Today we are going to design a circuit using circom and snarkjs. Create (and move into) a new directory called factor where we’ll put all the files that we want to use in this guide. 
 
 Remember, the purpose of this circuit is to allow us to prove that we know two numbers ("in1" and "in2") that multiply together to give "out", without revealing "in1" and "in2".
 
