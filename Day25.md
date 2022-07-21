@@ -8,12 +8,10 @@ In our example, we use circom and snarkjs.
 
 ![snarkjs](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_27.png)
 
-But, why is groth16 so great? Well, ZKP are typically grade on prover time, proof size and verification time. Groth16 present the following features:
+But, why is groth16 so great? 
 
+![Groth16](https://raw.githubusercontent.com/hasselalcala/DaysOfZeroKnowledge/main/images/circom_28.png)
 
-To solve this, the trusted setup can be performed using a special cryptographic ceremony in which multiple participants each take turns to perform a computation.
+So what is the problem with a trusted setup? The balance between privacy for the prover and assurance of not cheating for the verifier is delicate. Having one single entity generate the keys sort of defeats the purpose of using zero-knowledge proofs in the first place, at least in public systems where everyone is a prover and a verifier. This is exactly why SNARKs that have a structured setup phase are best coupled with a multiparty computation (MPC) for the setup, to reduce the trust assumptions. Ideally, such an MPC involves a large number of parties, and ensures that even if merely any one of the parties behaves honestly and erases their own local secrets, then the result is secure. Put otherwise, security holds unless all parties are malicious or compromised. 
 
-
-
-
-
+That's all for this thread. Next week we are going to talk about ZKP without a trustep setup. Thank you for reading! If you liked, follow me @Hasseru and retweet.
